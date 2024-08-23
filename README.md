@@ -69,8 +69,7 @@ sh sonar_api_integration.sh -h
 
 Contributors names and contact info
 
-ex. Nick Ho  
-ex. [@Nick Ho](t16387@hotmail.com)
+Nick Ho ,t16387@hotmail.com
 
 ## Version History
 
